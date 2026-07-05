@@ -2,7 +2,8 @@ name: scheduled-python
 
 on:
   schedule:
-    - cron: '4 0 * * *'   # 毎日00:00 UTC → JST の 09:00 に相当
+    - cron: '4 0 * * *'   # 毎日00:04 UTC → JST の 09:04 に相当
+    - cron: '24 2 * * *'  # 毎日02:24 UTC → JST の 11:24 に相当
   workflow_dispatch:     # 手動実行用（テスト用）
 
 jobs:
