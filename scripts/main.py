@@ -40,8 +40,8 @@ def main():
 
     # APIスコープの定義
     scopes = [
-        '[https://www.googleapis.com/auth/spreadsheets](https://www.googleapis.com/auth/spreadsheets)',
-        '[https://www.googleapis.com/auth/drive](https://www.googleapis.com/auth/drive)'
+        'https://www.googleapis.com/auth/spreadsheets',
+        'https://www.googleapis.com/auth/drive'
     ]
     
     try:
