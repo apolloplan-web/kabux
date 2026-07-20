@@ -1,0 +1,353 @@
+#§ 「日経連続増配株指数」 202 6 年版構成銘柄一覧から引用
+[
+  {
+    "code": "4452",
+    "name": "花王",
+    "consecutiveYears": 36
+  },
+  {
+    "code": "7466",
+    "name": "ＳＰＫ",
+    "consecutiveYears": 28
+  },
+  {
+    "code": "8593",
+    "name": "三菱ＨＣキャピタル",
+    "consecutiveYears": 27
+  },
+  {
+    "code": "4732",
+    "name": "ユー・エス・エス",
+    "consecutiveYears": 26
+  },
+  {
+    "code": "8566",
+    "name": "リコーリース",
+    "consecutiveYears": 26
+  },
+  {
+    "code": "4967",
+    "name": "小林製薬",
+    "consecutiveYears": 26
+  },
+  {
+    "code": "9989",
+    "name": "サンドラッグ",
+    "consecutiveYears": 24
+  },
+  {
+    "code": "5947",
+    "name": "リンナイ",
+    "consecutiveYears": 24
+  },
+  {
+    "code": "9433",
+    "name": "ＫＤＤＩ",
+    "consecutiveYears": 24
+  },
+  {
+    "code": "8113",
+    "name": "ユニ・チャーム",
+    "consecutiveYears": 24
+  },
+  {
+    "code": "9436",
+    "name": "沖縄セルラー電話",
+    "consecutiveYears": 24
+  },
+  {
+    "code": "2659",
+    "name": "サンエー",
+    "consecutiveYears": 23
+  },
+  {
+    "code": "7504",
+    "name": "高速",
+    "consecutiveYears": 22
+  },
+  {
+    "code": "4527",
+    "name": "ロート製薬",
+    "consecutiveYears": 22
+  },
+  {
+    "code": "6370",
+    "name": "栗田工業",
+    "consecutiveYears": 22
+  },
+  {
+    "code": "9843",
+    "name": "ニトリホールディングス",
+    "consecutiveYears": 22
+  },
+  {
+    "code": "7532",
+    "name": "パン・パシフィック・インターナショナルホールディングス",
+    "consecutiveYears": 22
+  },
+  {
+    "code": "8425",
+    "name": "みずほリース",
+    "consecutiveYears": 21
+  },
+  {
+    "code": "8424",
+    "name": "芙蓉総合リース",
+    "consecutiveYears": 21
+  },
+  {
+    "code": "9037",
+    "name": "ハマキョウレックス",
+    "consecutiveYears": 20
+  },
+  {
+    "code": "3844",
+    "name": "コムチュア",
+    "consecutiveYears": 19
+  },
+  {
+    "code": "7613",
+    "name": "シークス",
+    "consecutiveYears": 19
+  },
+  {
+    "code": "4547",
+    "name": "キッセイ薬品工業",
+    "consecutiveYears": 18
+  },
+  {
+    "code": "2502",
+    "name": "アサヒグループホールディングス",
+    "consecutiveYears": 18
+  },
+  {
+    "code": "4206",
+    "name": "アイカ工業",
+    "consecutiveYears": 17
+  },
+  {
+    "code": "4765",
+    "name": "ＳＢＩグローバルアセットマネジメント",
+    "consecutiveYears": 17
+  },
+  {
+    "code": "1414",
+    "name": "ショーボンドホールディングス",
+    "consecutiveYears": 17
+  },
+  {
+    "code": "4212",
+    "name": "積水樹脂",
+    "consecutiveYears": 17
+  },
+  {
+    "code": "8771",
+    "name": "イー・ギャランティ",
+    "consecutiveYears": 17
+  },
+  {
+    "code": "5393",
+    "name": "ニチアス",
+    "consecutiveYears": 17
+  },
+  {
+    "code": "3349",
+    "name": "コスモス薬品",
+    "consecutiveYears": 17
+  },
+  {
+    "code": "3097",
+    "name": "物語コーポレーション",
+    "consecutiveYears": 17
+  },
+  {
+    "code": "5970",
+    "name": "ジーテクト",
+    "consecutiveYears": 16
+  },
+  {
+    "code": "1925",
+    "name": "大和ハウス工業",
+    "consecutiveYears": 16
+  },
+  {
+    "code": "9882",
+    "name": "イエローハット",
+    "consecutiveYears": 16
+  },
+  {
+    "code": "4204",
+    "name": "積水化学工業",
+    "consecutiveYears": 16
+  },
+  {
+    "code": "4205",
+    "name": "日本ゼオン",
+    "consecutiveYears": 16
+  },
+  {
+    "code": "6750",
+    "name": "エレコム",
+    "consecutiveYears": 16
+  },
+  {
+    "code": "3837",
+    "name": "アドソル日進",
+    "consecutiveYears": 16
+  },
+  {
+    "code": "4768",
+    "name": "大塚商会",
+    "consecutiveYears": 16
+  },
+  {
+    "code": "8012",
+    "name": "長瀬産業",
+    "consecutiveYears": 16
+  },
+  {
+    "code": "9956",
+    "name": "バローホールディングス",
+    "consecutiveYears": 16
+  },
+  {
+    "code": "4901",
+    "name": "富士フイルムホールディングス",
+    "consecutiveYears": 16
+  },
+  {
+    "code": "7976",
+    "name": "三菱鉛筆",
+    "consecutiveYears": 16
+  },
+  {
+    "code": "8283",
+    "name": "ＰＡＬＴＡＣ",
+    "consecutiveYears": 16
+  },
+  {
+    "code": "8015",
+    "name": "豊田通商",
+    "consecutiveYears": 16
+  },
+  {
+    "code": "4975",
+    "name": "ＪＣＵ",
+    "consecutiveYears": 16
+  },
+  {
+    "code": "4543",
+    "name": "テルモ",
+    "consecutiveYears": 16
+  },
+  {
+    "code": "9658",
+    "name": "ビジネスブレイン太田昭和",
+    "consecutiveYears": 15
+  },
+  {
+    "code": "9364",
+    "name": "上組",
+    "consecutiveYears": 15
+  },
+  {
+    "code": "9757",
+    "name": "船井総研ホールディングス",
+    "consecutiveYears": 15
+  },
+  {
+    "code": "5280",
+    "name": "ヨシコン",
+    "consecutiveYears": 15
+  },
+  {
+    "code": "8929",
+    "name": "青山財産ネットワークス",
+    "consecutiveYears": 15
+  },
+  {
+    "code": "6294",
+    "name": "オカダアイヨン",
+    "consecutiveYears": 15
+  },
+  {
+    "code": "7438",
+    "name": "コンドーテック",
+    "consecutiveYears": 15
+  },
+  {
+    "code": "9432",
+    "name": "ＮＴＴ",
+    "consecutiveYears": 15
+  },
+  {
+    "code": "7990",
+    "name": "グローブライド",
+    "consecutiveYears": 15
+  },
+  {
+    "code": "2353",
+    "name": "日本駐車場開発",
+    "consecutiveYears": 15
+  },
+  {
+    "code": "7476",
+    "name": "アズワン",
+    "consecutiveYears": 15
+  },
+  {
+    "code": "1930",
+    "name": "北陸電気工事",
+    "consecutiveYears": 15
+  },
+  {
+    "code": "8111",
+    "name": "ゴールドウイン",
+    "consecutiveYears": 15
+  },
+  {
+    "code": "8418",
+    "name": "山口フィナンシャルグループ",
+    "consecutiveYears": 15
+  },
+  {
+    "code": "9435",
+    "name": "光通信",
+    "consecutiveYears": 15
+  },
+  {
+    "code": "3064",
+    "name": "ＭｏｎｏｔａＲＯ",
+    "consecutiveYears": 15
+  },
+  {
+    "code": "4928",
+    "name": "ノエビアホールディングス",
+    "consecutiveYears": 14
+  },
+  {
+    "code": "7313",
+    "name": "テイ・エス テック",
+    "consecutiveYears": 14
+  },
+  {
+    "code": "4671",
+    "name": "ファルコホールディングス",
+    "consecutiveYears": 14
+  },
+  {
+    "code": "8252",
+    "name": "丸井グループ",
+    "consecutiveYears": 14
+  },
+  {
+    "code": "3231",
+    "name": "野村不動産ホールディングス",
+    "consecutiveYears": 14
+  },
+  {
+    "code": "1928",
+    "name": "積水ハウス",
+    "consecutiveYears": 14
+  }
+]
